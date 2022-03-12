@@ -1,0 +1,6 @@
+{
+    "name": "Scheduler",
+    "description": "Scheduler for the dashboard",
+    "modelCategory": "MODEL_MONITORING_MODEL",
+    "frequentlyUsed": false
+}
