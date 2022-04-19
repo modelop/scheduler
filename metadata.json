@@ -2,5 +2,6 @@
     "name": "Scheduler",
     "description": "Scheduler for the dashboard",
     "modelCategory": "MODEL_MONITORING_MODEL",
+    "defaultAssociationRole": "METRICS_MODEL",
     "frequentlyUsed": true
 }
